@@ -1,1 +1,22 @@
-https://github.com/ChereddySowmyaSri/British-Airways-Virtual-Internship/issues/1#issue-2512379450
+**#British Airways Virtual Internship**
+
+Data science virtual internship programme by British Airways through Forage!
+
+**##Task 1**
+
+-applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
+
+-analyze customer reviews using sentimental analysis to sort positive and negative reviews
+
+-preparing a powerpoint representation to highlight our insights and analysis
+
+**##Task 2**
+
+-creating a classification model to predict customer buying behaviour
+
+-preparing a powerpoint representation to highlight our insights and analysis
+
+Program link:https://www.theforage.com/
+
+Completion Certificate link: https://drive.google.com/file/d/1o2fR-2fSvWSJxzpfDP84bgWEoETQZ1RH/view?usp=drive_link
+
